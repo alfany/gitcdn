@@ -1,0 +1,1 @@
+$(window).scroll(function(){var height=$(window).scrollTop();if(height>100){$('#myb2t').fadeIn()}else{$('#myb2t').fadeOut()}});$(document).ready(function(){$("#myb2t").click(function(event){event.preventDefault();$("html, body").animate({scrollTop:0},"slow");return!1})})
