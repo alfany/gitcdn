@@ -1,2 +1,0 @@
-# taassets
-TripAdvisor Widget
