@@ -1,0 +1,1 @@
+const ldLnk=e=>new Promise(((t,n)=>{const s=document.createElement("link");s.rel="stylesheet",s.onload=t,s.onerror=n,s.href=e,document.head.append(s)}));ldLnk("https://cdn1.blessingtransportbromoijen.com/containers/taassets/ta_widgets_mix.css");
