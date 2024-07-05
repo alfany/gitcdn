@@ -1,1 +1,1 @@
-# gitcdn
+# gitcdn fastly
