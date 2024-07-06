@@ -3,12 +3,12 @@
     "short_name": "Blessing Transport Service",
     "icons": [
         {
-            "src": "https://cdn.blessingtransportbromoijen.com/containers/favicon/favicon-192.png",
+            "src": "https://fastly.jsdelivr.net/gh/alfany/gitcdn@latest/containers/favicon/favicon-192.png",
             "sizes": "192x192",
             "type": "image/png"
         },
         {
-            "src": "https://cdn.blessingtransportbromoijen.com/containers/favicon/favicon-512.png",
+            "src": "https://fastly.jsdelivr.net/gh/alfany/gitcdn@latest/containers/favicon/favicon-512.png",
             "sizes": "512x512",
             "type": "image/png"
         }
