@@ -2,7 +2,7 @@
 <browserconfig>
     <msapplication>
         <tile>
-            <square150x150logo src="https://cdn.blessingtransportbromoijen.com/containers/favicon/mstile-150x150.png"/>
+            <square150x150logo src="https://fastly.jsdelivr.net/gh/alfany/gitcdn@latest/containers/favicon/mstile-150x150.png"/>
             <TileColor>#da532c</TileColor>
         </tile>
     </msapplication>
